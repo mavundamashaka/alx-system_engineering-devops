@@ -1,2 +1,2 @@
 #!/bin/bash
-read -p "(Ôo)"
+read "(Ôo)"
