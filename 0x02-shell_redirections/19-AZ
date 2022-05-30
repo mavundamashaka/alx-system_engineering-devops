@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $String | sed's/\Ac/\ze/g'
