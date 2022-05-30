@@ -1,2 +1,2 @@
 #!/bin/bash
-read "(Ôo)"
+echo "\"(Ôo)'"
